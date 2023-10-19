@@ -27,7 +27,7 @@ A interface `Navegador de Internet` é responsável por implementar a funcionali
 
 ### Entidades
 
-Existem algumas entidades representadas no diagrama, como `IPhone`, `Chrome` e `CaixaSom`, que representam diferentes dispositivos ou aplicativos que podem usar as interfaces e classes mencionadas acima.
+Existem algumas entidades representadas no diagrama, como `IPhone`, `Chrome`, `Telefone` e `CaixaSom`, que representam diferentes dispositivos ou aplicativos que podem usar as interfaces e classes mencionadas acima.
 
 ### Diagrama
 
