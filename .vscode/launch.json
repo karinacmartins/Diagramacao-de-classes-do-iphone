@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aparelho",
+            "request": "launch",
+            "mainClass": "testes.Aparelho",
+            "projectName": "Diagramacao-de-classes-do-iphone_efecbfa0"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
